@@ -1,7 +1,7 @@
 
-<center><img src="./md-references/siba.jpg" width="200" style="border-radius:10%"></center>
+<p align="center"><img src="./md-references/siba.jpg" width="200" style="border-radius:10%"></p>
 
-# <center>SIBA (<u>S</u>ocial <u>I</u>oT <u>B</u>ased on <u>A</u>I chatbot)</center>
+<h1 align="center">SIBA (<u>S</u>ocial <u>I</u>oT <u>B</u>ased on <u>A</u>I chatbot)</h1>
 <p align="center">
     <a href="https://poser.pugx.org/ali-irawan/xtra/license.svg"><img src="https://poser.pugx.org/ali-irawan/xtra/license.svg" alt="Appveyor"></a>
 </p>
@@ -27,7 +27,7 @@ If you want to see the detailed description or code, please click on the relevan
 
 ## System architecture
 
-<center><img src="./md-references/siba-archi.png" width="730"></center>
+<p align="center"><img src="./md-references/siba-archi.png" width="730"></p>
 
 ## how to make SIBA IoT device?
 - Steps 1 through 4 prepare the development hub and only need to be preceded once as needed. One development hub can connect up to nine devices.
