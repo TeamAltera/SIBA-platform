@@ -132,7 +132,8 @@ Is all logic code working normally? If so, now you can deploy the scenario graph
 **6) From then on, users can operate the device by clicking the SIBA button on the Kakao channel**
 
 ## Team QuadCore members
-- Gyojun Ahn (Project Leader)
-- Sangwon Lee
-- Jinhyeok Kim
-- Sohyeon Jeon
+- **Gyojun Ahn (Project Leader)** : API server & Developers tool development
+- **Sangwon Lee** : API server & chatbot development
+- **Jinhyeok Kim** : IoT Library development
+- **Sohyeon Jeon** : React Web app development
+- **Sunyoung Um** : IoT Library development
